@@ -2,7 +2,10 @@
 
 This script tries to determine the version of the target adc/gateway ip with the help of the Fox-IT Hash table.
 
+
+<code>
 python3 citrix_adc.py <target>
+
 
 ###################################################
 # CoreThreat - Citrix ADC & Gateway version check #
@@ -13,7 +16,7 @@ python3 citrix_adc.py <target>
 [+] Connect to target:  <target>
 [+] Found hash: c1b64cea1b80e973580a73b787828daf
 [+] Found version:  ['2022-10-04 16:11:03', 'c1b64cea1b80e973580a73b787828daf', '12.1-65.21']
-  
+</code>  
   
  
   
