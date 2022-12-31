@@ -1,6 +1,6 @@
 # Citrix_ADC_Gateway_Check - CVE-2020-8193, CVE-2020-8195 and CVE-2020-8196
 
-This script tries to determine the version of the target adc/gateway ip with the help of the Fox-IT Hash table.
+This script tries to determine the version of the target adc/gateway ip with the help of the Fox-IT hash table.
 
 
 ```python
