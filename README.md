@@ -20,7 +20,7 @@ python3 citrix_adc.py <target>
   
  
   
- # Infos about CVE-2020-8193, CVE-2020-8195 and CVE-2020-8196:
+ ## Infos about CVE-2020-8193, CVE-2020-8195 and CVE-2020-8196:
  ```python
  https://nvd.nist.gov/vuln/detail/CVE-2022-27518
  https://blog.fox-it.com/2022/12/28/cve-2022-27510-cve-2022-27518-measuring-citrix-adc-gateway-version-adoption-on-the-internet/
